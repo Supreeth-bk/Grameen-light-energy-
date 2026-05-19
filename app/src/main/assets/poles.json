@@ -1,0 +1,31 @@
+[
+  {"id": "P-101", "name": "Main Street West", "posX": 100, "posY": 500, "status": "WORKING"},
+  {"id": "P-102", "name": "Main Street Center", "posX": 400, "posY": 500, "status": "FUSED"},
+  {"id": "P-103", "name": "Main Street East", "posX": 700, "posY": 500, "status": "WORKING"},
+  {"id": "P-104", "name": "Main Street Far East", "posX": 1000, "posY": 500, "status": "WORKING"},
+  
+  {"id": "P-201", "name": "Temple Road North", "posX": 400, "posY": 100, "status": "WORKING"},
+  {"id": "P-202", "name": "Temple Road Square", "posX": 400, "posY": 300, "status": "WORKING"},
+  {"id": "P-203", "name": "Temple Road Junction", "posX": 400, "posY": 500, "status": "DAY_ON"},
+  {"id": "P-204", "name": "Temple Road South", "posX": 400, "posY": 800, "status": "WORKING"},
+  {"id": "P-205", "name": "Temple Entrance", "posX": 400, "posY": 1100, "status": "FUSED"},
+
+  {"id": "P-301", "name": "School Lane 1", "posX": 100, "posY": 800, "status": "WORKING"},
+  {"id": "P-302", "name": "School Lane 2", "posX": 250, "posY": 800, "status": "WORKING"},
+  {"id": "P-303", "name": "School Lane Corner", "posX": 400, "posY": 800, "status": "WORKING"},
+  {"id": "P-304", "name": "School Gate", "posX": 600, "posY": 800, "status": "FUSED"},
+  
+  {"id": "P-401", "name": "Panchayat Road 1", "posX": 700, "posY": 200, "status": "WORKING"},
+  {"id": "P-402", "name": "Panchayat Road 2", "posX": 700, "posY": 500, "status": "WORKING"},
+  {"id": "P-403", "name": "Panchayat Office", "posX": 700, "posY": 800, "status": "WORKING"},
+  {"id": "P-404", "name": "Water Tank Lane", "posX": 700, "posY": 1100, "status": "DAY_ON"},
+
+  {"id": "P-501", "name": "Market Row A", "posX": 1000, "posY": 100, "status": "WORKING"},
+  {"id": "P-502", "name": "Market Row B", "posX": 1150, "posY": 100, "status": "WORKING"},
+  {"id": "P-503", "name": "Market Row C", "posX": 1300, "posY": 100, "status": "FUSED"},
+  
+  {"id": "P-601", "name": "Village Edge West", "posX": -200, "posY": 500, "status": "WORKING"},
+  {"id": "P-602", "name": "Village Edge North", "posX": 400, "posY": -200, "status": "WORKING"},
+  {"id": "P-603", "name": "Village Edge East", "posX": 1300, "posY": 500, "status": "WORKING"},
+  {"id": "P-604", "name": "Village Edge South", "posX": 400, "posY": 1400, "status": "WORKING"}
+]
